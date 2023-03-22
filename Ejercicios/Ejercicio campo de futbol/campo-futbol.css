@@ -1,0 +1,116 @@
+.Fondo {
+
+    background-color: blue;
+    width: 400px;
+    height: 500px;
+
+}
+
+.medio-top {
+    background-color: green;
+    width: 100%;
+    height: 50%;
+    border: solid;
+    border-color: white;
+    border: none none none 4px;
+    position: relative;
+}
+
+.semic-1 {
+
+    border: solid;
+    border-color: white;
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 24%;
+    border-radius: 50%;
+
+}
+
+.centro {
+    background-color: white;
+    border: solid;
+    border-color: white;
+    height: 5px;
+    width: 5px;
+    margin: 0 auto;
+    margin-top: 43%;
+    border-radius: 50%;
+}
+
+.area-1 {
+    border: solid;
+    border-color: white;
+    height: 100px;
+    width: 300px;
+    margin: 0 auto;
+    border-top: none;
+
+
+}
+
+.porteria-1 {
+    border: solid;
+    border-color: white;
+    margin: 0 auto;
+    height: 60px;
+    width: 150px;
+    border-top: none;
+
+}
+
+.medio-bot {
+    background-color: green;
+    width: 100%;
+    height: 50%;
+    border-top: none;
+    border: solid;
+    border-color: white;
+    border: none none none 4px;
+    position: relative;
+}
+
+.area-2 {
+    border: solid;
+    border-color: white;
+    height: 100px;
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+.porteria-2 {
+    border: solid;
+    border-color: white;
+    margin: auto;
+    height: 60px;
+    width: 150px;
+    margin-top: 31px;
+
+}
+
+.semic-2 {
+    border: solid;
+    border-color: white;
+    margin: 0 auto;
+    height: 50px;
+    width: 100px;
+    border-bottom-left-radius: 110px;
+    border-bottom-right-radius: 110px;
+    border-top: none;
+
+}
+
+.centro-2 {
+    background-color: white;
+    border: solid;
+    border-color: white;
+    height: 5px;
+    width: 5px;
+    margin: 0 auto;
+    margin-top: 0px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
